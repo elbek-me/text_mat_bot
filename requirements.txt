@@ -1,0 +1,5 @@
+aiogram>=3.13,<4
+pydantic-settings>=2.5,<3
+pillow>=10.1
+edge-tts>=6.1.12
+deep-translator>=1.11.4
